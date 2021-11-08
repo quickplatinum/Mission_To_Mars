@@ -11,6 +11,9 @@ Using different index HTML temeplates, I was able to edit the positioning of the
 Seen below is the original look of the mars hemispheres:
 ![Mars Hemispheres Original](https://user-images.githubusercontent.com/88692025/140685538-85aa3734-ba5e-4723-95a4-de9fb46a66ec.PNG)
 
-After a few edits to the code, I was able to reposition them as seen below:
+After a few edits to the code, I was able to reposition them as seen below, while also chaning the font and making it more readable overall and for mobile users:
 ![Mars Hemispheres Remastered](https://user-images.githubusercontent.com/88692025/140685628-256ba8a7-01d0-41cf-9f3e-35c1ef70c468.PNG)
 
+## Mobile Friendly
+Using Bootsrap and developer toold to check how the mars hemispheres look in mobile view. Chose the responsivenss rate of a Google Pixel 2XL as seen in the image below to confirm.
+![Mars Hemispheres Mobile](https://user-images.githubusercontent.com/88692025/140686397-f7a3d822-1d9d-4281-a859-d635a90fbde9.PNG)
