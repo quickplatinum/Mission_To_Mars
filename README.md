@@ -16,4 +16,5 @@ After a few edits to the code, I was able to reposition them as seen below, whil
 
 ## Mobile Friendly
 Using Bootsrap and developer toold to check how the mars hemispheres look in mobile view. Chose the responsivenss rate of a Google Pixel 2XL as seen in the image below to confirm.
+
 ![Mars Hemispheres Mobile](https://user-images.githubusercontent.com/88692025/140686397-f7a3d822-1d9d-4281-a859-d635a90fbde9.PNG)
